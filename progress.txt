@@ -1,3 +1,4 @@
 DSA Progress Tracker
 ==================
 
+Day 1 (2026-02-01): Problem analysis and approach
