@@ -8,3 +8,4 @@ Day 2 (2026-02-02): Code review and optimization
 Day 3 (2026-02-03): Code review and optimization
 Day 3 (2026-02-03): Completed Q2
 Day 4 (2026-02-04): Debug and test cases
+Day 4 (2026-02-04): Practice and revision
