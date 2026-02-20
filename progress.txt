@@ -40,3 +40,4 @@ Day 18 (2026-02-18): Debug and test cases
 Day 19 (2026-02-19): Practice and revision
 Day 19 (2026-02-19): Completed Q12
 Day 20 (2026-02-20): Debug and test cases
+Day 20 (2026-02-20): Study notes updated
